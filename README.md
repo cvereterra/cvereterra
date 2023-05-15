@@ -6,7 +6,7 @@
 * 🤝  Open Source enthusiast
 * 🌍  Based in Spain 🇪🇸
 
-### Tech I'm love using
+### Tech I love using
 <div style="display: flex;">
   <a href="https://docker.com"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="54" height="48" alt="Docker" /></a>
     <a href="https://cloud.google.com"><img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/cloud/images/favicons/onecloud/super_cloud.png" width="48" height="48" alt="Google Cloud" /></a>
