@@ -9,7 +9,9 @@
 ### Tech I love using
 <div style="display: flex;">
   <a href="https://docker.com"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="54" height="48" alt="Docker" /></a>
-    <a href="https://cloud.google.com"><img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/cloud/images/favicons/onecloud/super_cloud.png" width="48" height="48" alt="Google Cloud" /></a>
+  <a href="https://cloud.google.com"><img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/cloud/images/favicons/onecloud/super_cloud.png" width="48" height="48" alt="Google Cloud" /></a>
+  <a href="https://spring.io/"><img src="https://spring.io/icons/icon-512x512.png" width="48" height="48" alt="Spring Boot" /></a>
+   <a href="https://www.axoniq.io/"><img src="https://www.axoniq.io/hs-fs/hubfs/IQ.png?width=108&height=108" width="48" height="48" alt="Axon Framework" /></a>
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
   <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
   <a href="https://www.nextjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="48" height="48" alt="NextJs" /></a>
