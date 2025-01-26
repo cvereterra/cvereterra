@@ -6,7 +6,7 @@
 * 🤝  Founding Engineer @ <a href="happyrobot.ai">HappyRobot</a>
 * 🌍  Based in San Francisco 🇺🇸
 
-### Tech I love usingx
+### Tech I love using
 <div style="display: flex;">
   <a href="https://docker.com"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="54" height="48" alt="Docker" /></a>
   <a href="https://kubernetes.io"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="54" height="48" alt="Kubernetes" /></a>
@@ -19,11 +19,4 @@
   <a href="https://orm.drizzle.team"><img src="https://orm.drizzle.team/svg/drizzle.svg" width="48" height="48" alt="Drizzle" /></a>
   <a href="https://gitlab.com"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" width="48" height="48" alt="GitLab" /></a>
   <a href="https://mysql.com"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="71" height="48" alt="MySQL" /></a>
-</div>
-
-
-### Stats
-
-<div style="display: flex;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=cvereterra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="cvereterras's GitHub stats" height="229" />
 </div>
