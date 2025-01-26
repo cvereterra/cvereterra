@@ -3,8 +3,8 @@
 ### Industrial Engineer
 
 * 👨‍💻  Master's graduate in Industrial Engineering
-* 🤝  Open Source enthusiast
-* 🌍  Based in Spain 🇪🇸
+* 🤝  Founding Engineer @ <a href="happyrobot.ai">HappyRobot</a>
+* 🌍  Based in San Francisco 🇺🇸
 
 ### Tech I love using
 <div style="display: flex;">
